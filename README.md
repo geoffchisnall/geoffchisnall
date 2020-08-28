@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-blog - https://geoffchisnall.github.io/
+check out my blog - https://geoffchisnall.github.io/
 <!--
 **geoffchisnall/geoffchisnall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
