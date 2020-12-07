@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-check out my blog - https://geoffchisnall.github.io/
+####📫 check me out on:
+- [blog](https://geoffchisnall.github.io/)
+- [twitch](https://www.twitch.tv/mooncakeza)
+
 <!--
 **geoffchisnall/geoffchisnall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
