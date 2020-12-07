@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my repository of shitty code.
+
 ### 📫 check me out on:
 - blog: [https://geoffchisnall.github.io/](https://geoffchisnall.github.io/)
 - twitch: [https://www.twitch.tv/mooncakeza](https://www.twitch.tv/mooncakeza)
