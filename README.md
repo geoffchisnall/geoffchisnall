@@ -4,7 +4,6 @@ Welcome to my repository of shitty code.
 
 ### 📫 check me out on:
 - blog: [https://www.logoff.co.za](https://www.logoff.co.za)
-- 📫 How to reach me:
 - twitch: [https://www.twitch.tv/mooncakeza](https://www.twitch.tv/mooncakeza)
 
 <!--
