@@ -3,7 +3,8 @@
 Welcome to my repository of shitty code.
 
 ### 📫 check me out on:
-- blog: [https://geoffchisnall.github.io/](https://geoffchisnall.github.io/)
+- blog: [https://www.logoff.co.za](https://www.logoff.co.za)
+- 📫 How to reach me: <a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - twitch: [https://www.twitch.tv/mooncakeza](https://www.twitch.tv/mooncakeza)
 
 <!--
