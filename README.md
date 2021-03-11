@@ -4,7 +4,7 @@ Welcome to my repository of shitty code.
 
 ### 📫 check me out on:
 - blog: [https://www.logoff.co.za](https://www.logoff.co.za)
-- 📫 How to reach me: 
+- 📫 How to reach me: <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=geoffchisnall"  style="width:300px; height:20px;"></iframe>
 - twitch: [https://www.twitch.tv/mooncakeza](https://www.twitch.tv/mooncakeza)
 
 <!--
