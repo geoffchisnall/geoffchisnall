@@ -4,6 +4,7 @@ Welcome to my repository of shitty code.
 
 ### 📫 check me out on:
 - blog: [https://www.logoff.co.za](https://www.logoff.co.za)
+- CTF writeups: [CTF-Writeups](https://github.com/geoffchisnall/CTF-Writeups)
 - twitch: [https://www.twitch.tv/mooncakeza](https://www.twitch.tv/mooncakeza)
 
 <!--
